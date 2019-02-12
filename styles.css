@@ -1,0 +1,48 @@
+body{
+	text-align:center;
+	background: url(coins.png);
+  	background-repeat: no-repeat;
+  	background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+  
+}
+.button {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #F5014E;
+  border: none;
+  border-radius: 15px;
+  
+}
+
+.button:hover
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.copyright {
+  text-align: right;
+  color: #FFFFFF;
+}
+.textarea {
+  resize: none;
+  width: 25%;
+  padding: 2px 5px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px;
+  border-style: solid;
+  border-color: #F5014E;
+  border-radius: 4px;
+}
+  
